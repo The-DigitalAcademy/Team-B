@@ -1024,6 +1024,10 @@ section {
 .team {
   background: #fff;
   padding: 60px 0;
+  color: #000;
+}
+.h2{
+  background-color: #000;
 }
 
 .team .member {
