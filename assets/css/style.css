@@ -767,7 +767,7 @@ section {
 }
 
 .services .title a:hover {
-  color: #5c9f24;
+  color: #33FFFC;
 }
 
 .services .title::after {
@@ -776,7 +776,7 @@ section {
   display: block;
   width: 50px;
   height: 2px;
-  background: #5c9f24;
+  background: #33FFFC;
   bottom: 0;
   left: calc(50% - 25px);
 }
