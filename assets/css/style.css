@@ -779,6 +779,7 @@ section {
   background: #33FFFC;
   bottom: 0;
   left: calc(50% - 25px);
+  color: #000;
 }
 
 .services .description {
