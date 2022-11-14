@@ -1086,7 +1086,8 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #5c9f24;
+  color: black;
+  background-color: #000;
 }
 
 .team .member .social i {
