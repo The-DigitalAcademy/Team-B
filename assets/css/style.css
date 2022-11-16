@@ -889,6 +889,11 @@ section {
   padding: 60px 0;
   color: #33FFFC;
 }
+
+.team-card:hover{
+  transform: scale(1.1);
+  transition: 2s;
+}
 .h2{
   background-color: #000;
 }
@@ -1145,10 +1150,6 @@ section {
 }
 #footer .footer-links {
   margin-left: 200px;
-}
-
-#footer .footer-info {
-  margin-left: 130px;
 }
 
 #footer .footer-top .social-links a {
