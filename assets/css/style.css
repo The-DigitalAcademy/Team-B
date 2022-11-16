@@ -1143,9 +1143,16 @@ section {
   font-family: "Roboto", sans-serif;
   color: #fff;
 }
+#footer .footer-links {
+  margin-left: 200px;
+}
+
+#footer .footer-info {
+  margin-left: 130px;
+}
 
 #footer .footer-top .social-links a {
-  font-size: 18px;
+  font-size: 30px;
   display: inline-block;
   background: #2a2a2a;
   color: #fff;
@@ -1154,8 +1161,8 @@ section {
   margin-right: 4px;
   border-radius: 50%;
   text-align: center;
-  width: 36px;
-  height: 36px;
+  width: 50px;
+  height: 50px;
   transition: 0.3s;
 }
 
@@ -1209,39 +1216,6 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   color: #33FFFC;
-}
-
-#footer .footer-top .footer-newsletter form {
-  margin-top: 30px;
-  background: #fff;
-  padding: 6px 10px;
-  position: relative;
-  border-radius: 4px;
-}
-
-#footer .footer-top .footer-newsletter form input[type=email] {
-  border: 0;
-  padding: 4px;
-  width: calc(100% - 110px);
-}
-
-#footer .footer-top .footer-newsletter form input[type=submit] {
-  position: absolute;
-  top: 0;
-  right: -2px;
-  bottom: 0;
-  border: 0;
-  background: none;
-  font-size: 16px;
-  padding: 0 20px;
-  background: #33FFFC;
-  color: #fff;
-  transition: 0.3s;
-  border-radius: 0 4px 4px 0;
-}
-
-#footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: #33FFFC;
 }
 
 #footer .copyright {
