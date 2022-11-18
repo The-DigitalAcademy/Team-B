@@ -1154,7 +1154,7 @@ section {
 
 #footer .footer-top .footer-info h3 {
   font-size: 24px;
-  margin: 0 0 20px 0;
+  margin-left: 100px;
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 700;
@@ -1166,9 +1166,10 @@ section {
   margin-bottom: 0;
   font-family: "Roboto", sans-serif;
   color: #fff;
+  margin-left: 100px;
 }
 #footer .footer-links {
-  margin-left: 200px;
+  margin-left: 100px;
 }
 
 #footer .footer-top .social-links a {
