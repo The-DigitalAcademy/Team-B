@@ -249,6 +249,10 @@ h6 {
   transition: 0.3s;
 }
 
+.carousel-content p {
+  font-weight: bold;
+}
+
 .contact input {
   gap: 3rem;
 }
