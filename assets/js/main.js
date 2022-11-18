@@ -211,7 +211,7 @@
 })()
 
 function sendMail(str) {
-  var link = "mailto:mbuyisolo@gmail.com" + "&subject=" + escape("This is my subject") + "&body=" + escape(str);
+  var link = "mailto:brucemorakane74@gmail.com" + "&subject=" + escape("This is my subject") + "&body=" + escape(str);
   location.href = link;
 }
 function submit_comment() {
