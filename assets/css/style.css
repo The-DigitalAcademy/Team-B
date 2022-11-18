@@ -249,6 +249,17 @@ h6 {
   transition: 0.3s;
 }
 
+.contact input {
+  gap: 3rem;
+}
+
+.contact textarea {
+  gap: 3rem;
+}
+
+.form-group textarea {
+  width: 100%;
+}
 .navbar-mobile a,
 .navbar-mobile a:focus {
   padding: 10px 20px;
@@ -259,7 +270,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #5c9f24;
+  color: #33FFFC;
 }
 
 .navbar-mobile>ul>li {
