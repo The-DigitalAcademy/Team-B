@@ -703,6 +703,15 @@ section {
   color: #000;
 }
 
+#testimonials .testimonals-card {
+  margin-top: 10px;
+}
+
+#testimonials .row p {
+  margin-left: 1px;
+}
+
+
 .services .description {
   line-height: 24px;
   font-size: 14px;
